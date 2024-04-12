@@ -1,0 +1,709 @@
+{
+  "id": "4458945",
+  "name": "我的项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8361844",
+      "name": "眼睛3",
+      "font_class": "yanjing",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "8361853",
+      "name": "眼睛1",
+      "font_class": "yanjing1",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "8651683",
+      "name": "我的责任诊断",
+      "font_class": "wodezerenzhenduan",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "35104154",
+      "name": "有轨电车",
+      "font_class": "youguidianche",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "33588940",
+      "name": "直左右混行",
+      "font_class": "zhizuoyouhunhang",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "33588944",
+      "name": "左右混行",
+      "font_class": "zuoyouhunhang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "3702616",
+      "name": "编码方案",
+      "font_class": "navicon-bmfa",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "8791338",
+      "name": "手动",
+      "font_class": "shoudong",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "2076221",
+      "name": " 定位小",
+      "font_class": "dingweixiao",
+      "unicode": "e87e",
+      "unicode_decimal": 59518
+    },
+    {
+      "icon_id": "10558544",
+      "name": "道路",
+      "font_class": "road",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "5387746",
+      "name": "标签_o",
+      "font_class": "biaoqian_o",
+      "unicode": "eb47",
+      "unicode_decimal": 60231
+    },
+    {
+      "icon_id": "1046065",
+      "name": "单列列表",
+      "font_class": "danlieliebiao",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "9874470",
+      "name": "KHCFDC_单选选中",
+      "font_class": "danxuanxuanzhong",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "124495",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "749775",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "772993",
+      "name": "gps2",
+      "font_class": "gps2",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "1069760",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "1305048",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5387706",
+      "name": "监控",
+      "font_class": "jiankong",
+      "unicode": "eb37",
+      "unicode_decimal": 60215
+    },
+    {
+      "icon_id": "5961308",
+      "name": "检测器",
+      "font_class": "jianceqi",
+      "unicode": "ec54",
+      "unicode_decimal": 60500
+    },
+    {
+      "icon_id": "6677525",
+      "name": "经纬度",
+      "font_class": "jingweidu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11121481",
+      "name": "通信",
+      "font_class": "tongxin",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "11372772",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "20797217",
+      "name": "核心热点",
+      "font_class": "hexinredian",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "1001058",
+      "name": "状态",
+      "font_class": "iconfkzt",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7710761",
+      "name": "拥堵度",
+      "font_class": "yongdudu",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "1163354",
+      "name": "行人",
+      "font_class": "xingren",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "19567128",
+      "name": "应急手册",
+      "font_class": "65yingjishouce",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "26992617",
+      "name": "指标",
+      "font_class": "zhibiao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "26992543",
+      "name": "设备管理",
+      "font_class": "shebeiguanli",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "26992298",
+      "name": "控制中心",
+      "font_class": "kongzhizhongxin",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1254751",
+      "name": "11重置",
+      "font_class": "11zhongzhi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "26980853",
+      "name": "潮汐车道",
+      "font_class": "chaoxichedao",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "26980827",
+      "name": "可变车道",
+      "font_class": "kebianchedao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "26971902",
+      "name": "控制",
+      "font_class": "kongzhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "26902714",
+      "name": "交通衔接专业",
+      "font_class": "jiaotongxianjiezhuanye",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21080979",
+      "name": "右转直行-41",
+      "font_class": "chedaofangxiangSVG-41",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "21080987",
+      "name": "右转直行-40",
+      "font_class": "chedaofangxiangSVG-40",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "21080992",
+      "name": "左转掉头-49",
+      "font_class": "chedaofangxiangSVG-49",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "578565",
+      "name": "编辑",
+      "font_class": "bianji1",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "904013",
+      "name": "信号灯",
+      "font_class": "xinhaodeng",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "3278396",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10199175",
+      "name": "删除",
+      "font_class": "shanchu2",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2077528",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "5392436",
+      "name": "减少",
+      "font_class": "jianshao1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "22378774",
+      "name": "拖拽",
+      "font_class": "tuozhuai",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "9002862",
+      "name": "fa-arrows-alt",
+      "font_class": "fa-arrows-alt",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "15953934",
+      "name": "登记",
+      "font_class": "appraise",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1727457",
+      "name": "223保存",
+      "font_class": "baocun1",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "3615256",
+      "name": "辅助配置",
+      "font_class": "fuzhupeizhi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "2077524",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6447193",
+      "name": "取消",
+      "font_class": "quxiao",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "7556172",
+      "name": "确定",
+      "font_class": "queding",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "24325474",
+      "name": "路网",
+      "font_class": "luwang",
+      "unicode": "ee33",
+      "unicode_decimal": 60979
+    },
+    {
+      "icon_id": "145725",
+      "name": "首页_填充",
+      "font_class": "shouyetianchong",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "763145",
+      "name": "操作日志",
+      "font_class": "caozuorizhi32",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "1305482",
+      "name": "系统状态",
+      "font_class": "xitongzhuangtai",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "2127638",
+      "name": "道路交通",
+      "font_class": "daolujiaotong",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "15711148",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "17523086",
+      "name": "配置-系统配置",
+      "font_class": "peizhi-xitongpeizhi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7594804",
+      "name": "24gl-fileText",
+      "font_class": "24gl-fileText",
+      "unicode": "eabe",
+      "unicode_decimal": 60094
+    },
+    {
+      "icon_id": "630094",
+      "name": "向右箭头",
+      "font_class": "xiangyoujiantou",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "14733",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "76992",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4694305",
+      "name": "向上占行",
+      "font_class": "xiangshangzhanhang",
+      "unicode": "ec0b",
+      "unicode_decimal": 60427
+    },
+    {
+      "icon_id": "12316662",
+      "name": "参数配置",
+      "font_class": "canshupeizhi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1727520",
+      "name": "304错误、关闭、取消-线性方框",
+      "font_class": "cuowuguanbiquxiao-xianxingfangkuang",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "201579",
+      "name": "3.1定位",
+      "font_class": "31dingwei",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "124052",
+      "name": "快进",
+      "font_class": "kuaijin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "980892",
+      "name": "开始",
+      "font_class": "weibiaoti518",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1304882",
+      "name": "开关",
+      "font_class": "kaiguan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "2781697",
+      "name": "数据备份恢复",
+      "font_class": "shujubeifenhuifu",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "7872849",
+      "name": "停止",
+      "font_class": "tingzhi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "23084687",
+      "name": "梯子-线性",
+      "font_class": "tizi-xianxing",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "24553686",
+      "name": "指定图层",
+      "font_class": "zhidingtuceng",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "2076374",
+      "name": "对勾小",
+      "font_class": "duigouxiao",
+      "unicode": "e8bd",
+      "unicode_decimal": 59581
+    },
+    {
+      "icon_id": "15690664",
+      "name": "播放",
+      "font_class": "bf",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1327",
+      "name": "录音",
+      "font_class": "luyin",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "82753",
+      "name": "未选中圆圈",
+      "font_class": "weixuanzhongyuanquan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3538379",
+      "name": "删除",
+      "font_class": "shanchu1",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "6537207",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "3865242",
+      "name": "自行车",
+      "font_class": "zihangche",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "25780563",
+      "name": "箭头_向左 (1)",
+      "font_class": "a-jiantou_xiangshang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "25780625",
+      "name": "箭头_向左 (1)",
+      "font_class": "a-jiantou_xiangzuo-copy",
+      "unicode": "ed1f",
+      "unicode_decimal": 60703
+    },
+    {
+      "icon_id": "25780709",
+      "name": "箭头_向左 (1)",
+      "font_class": "a-jiantou_xiangyou",
+      "unicode": "ed20",
+      "unicode_decimal": 60704
+    },
+    {
+      "icon_id": "7954390",
+      "name": "错叉_块",
+      "font_class": "cuocha_kuai",
+      "unicode": "ed1e",
+      "unicode_decimal": 60702
+    },
+    {
+      "icon_id": "18170581",
+      "name": "巴士,客运,公共交通,公交",
+      "font_class": "coach-full",
+      "unicode": "e9da",
+      "unicode_decimal": 59866
+    },
+    {
+      "icon_id": "2569862",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "17350490",
+      "name": "出行人次",
+      "font_class": "chuhangrenci",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "7964505",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "25702011",
+      "name": "增加",
+      "font_class": "zengjia1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "25695088",
+      "name": "右转",
+      "font_class": "youzhuan1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12740639",
+      "name": "右转",
+      "font_class": "youzhuan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12740640",
+      "name": "左转",
+      "font_class": "zuozhuan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12740636",
+      "name": "直行",
+      "font_class": "zhihang",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "792437",
+      "name": "cycle-骑车",
+      "font_class": "cycleqiche",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "12740634",
+      "name": "直行+掉头",
+      "font_class": "zhihangdiaotou",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "12740635",
+      "name": "右掉头",
+      "font_class": "youdiaotou",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12740642",
+      "name": "左掉头",
+      "font_class": "zuodiaotou",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "12740643",
+      "name": "左转+掉头",
+      "font_class": "zuozhuandiaotou",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    }
+  ]
+}
